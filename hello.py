@@ -3,6 +3,7 @@ print("Hello world")
 
 def printfucntion():
     print("oyoyoyoy")
+    Print("If i had much money i go to sing in america")
 
 
 printfucntion()
